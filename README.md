@@ -4,19 +4,18 @@
 -->
 
 <!-- ===================== 顶部波浪 Banner ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=200&section=header&text=%E7%AC%99%E5%9B%A7%E5%90%8C%E5%AD%A6%20%7C%20Sheng%20Jiong&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20Algorithm%20Engineer%20%C2%B7%2062%20Open%20Source%20Projects&descSize=18&descAlignY=58" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=200&section=header&text=%E7%AC%99%E5%9B%A7%E5%90%8C%E5%AD%A6%20%7C%20Sheng%20Jiong&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20Algorithm%20Engineer%20%C2%B7%20MSc%20%40%20Chinese%20Academy%20of%20Sciences&descSize=18&descAlignY=58" alt="header" />
 
 <!-- ===================== 打字动画 + 状态徽章 ===================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=LLM+Applications+%26+AI+Productivity+Tools;62+Open-Source+Projects+%26+Growing;Turning+complex+AI+into+simple+products;Star+%E2%AD%90+to+unlock+the+full+collection" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=LLM+Applications+%26+AI+Productivity+Tools;MSc+%40+Chinese+Academy+of+Sciences;Turning+complex+AI+into+simple+products;Building+%26+sharing+open+source" alt="Typing SVG" />
 
 <br/>
 
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-AI_Algorithm-2EA44F?style=flat-square&logo=github&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Beijing-1E90FF?style=flat-square&logo=googlemaps&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-AI_%2F_LLM-8A2BE2?style=flat-square&logo=openai&logoColor=white)
-![Repos](https://img.shields.io/badge/Public_Repos-62-36BCF7?style=flat-square&logo=github&logoColor=white)
 ![Visitors](https://komarev.com/ghpvc/?username=Windyhhh&style=flat-square&color=blue&label=Profile+Views)
 
 </div>
@@ -26,14 +25,13 @@
 <!-- ===================== 个人简介 ===================== -->
 ## 👋 About Me
 
-- 🧑‍💻 我是 **笙囧同学（Sheng Jiong）**，**中科院 AI 方向在读硕士**，坐标 **北京**
-- 🚀 创办了 **北京桐桉智能科技有限公司**，让 AI 研究不止停留在论文，而是真正落成产品
-- 🏢 曾在 **阿里、百度** 等大厂担任 **算法实习生**，在真实业务场景里打磨过模型与工程
-- 🧠 累计 **62 个开源项目**，覆盖 **AI / 大数据 / 算法 / Web 全栈**，持续更新中
-- 🎬 全网同名自媒体 **「笙囧同学」**，深耕 AI × 计算机，打造个人技术 IP
-- 📖 工作与代码之外，最大的爱好是 **看小说**——在算法和故事之间自由穿梭
-- 💡 理念：**用 AI 把复杂的事做简单，让更多人真正用得上 AI**
-- 📌 正在寻找 **AI 算法 / 大模型应用** 相关机会，欢迎交流合作 → **3251736703@qq.com**
+我是 **笙囧同学**，中科院 AI 方向在读硕士，坐标北京。
+
+在校期间创办了 **北京桐桉智能科技有限公司**，也在 **阿里、百度** 做过算法实习——一边把 AI 想法真正做成产品，一边在真实业务里打磨模型和工程。
+
+平时喜欢折腾 AI 应用和大数据项目，也会在 **「笙囧同学」** 同名账号下分享些 AI 内容。
+
+不写代码的时候喜欢看小说，算是给自己换个频道。正在找 **AI 算法 / 大模型应用** 相关机会，做同类事情的朋友欢迎来聊 → **3251736703@qq.com**
 
 ---
 
@@ -76,7 +74,7 @@
 <!-- ===================== 精选作品 ===================== -->
 ## 🚀 精选作品 (Featured Projects)
 
-> ⭐ **每个仓库都有双语爆款 README**，欢迎点击进入并收藏！
+> 挑了几个有代表性的放在前面，完整列表在下面。
 
 <div align="center">
 
@@ -94,9 +92,9 @@
 ---
 
 <!-- ===================== 项目分类导航 ===================== -->
-## 📚 项目总览 · 62 Open Source Projects
+## 📚 项目总览
 
-> 按领域分类，点击即可进入对应仓库，**每个都是双语爆款 README + 完整可运行代码**。
+> 按领域整理了一下，方便快速找到感兴趣的。
 
 ### 🤖 AI 与深度学习
 
