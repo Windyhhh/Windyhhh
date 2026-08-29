@@ -80,12 +80,12 @@
 
 | 项目 | 简介 | 技术栈 |
 | --- | --- | --- |
-| [**AI-Novel-MultiAgent**](https://github.com/Windyhhh/AI-Novel-MultiAgent) | 多智能体 AI 小说创作系统 | MultiAgent · LLM |
-| [**Offline-Legal-RAG-Qwen**](https://github.com/Windyhhh/Offline-Legal-RAG-Qwen) | 离线法律知识 RAG 问答 | RAG · Qwen |
-| [**LoLCATs-Linear-Attention**](https://github.com/Windyhhh/LoLCATs-Linear-Attention) | 线性注意力机制研究 | PyTorch |
-| [**FGAN-Industrial-Fault-Detection**](https://github.com/Windyhhh/FGAN-Industrial-Fault-Detection) | 工业故障检测 | GAN · 深度学习 |
-| [**Movie-Analytics-Spark-Django-Vue**](https://github.com/Windyhhh/Movie-Analytics-Spark-Django-Vue) | 电影数据分析全栈 | Spark · Django · Vue |
-| [**Offline-PINN-Flow-Solver**](https://github.com/Windyhhh/PINN-3D-Flow-Solver) | 3D 流动 PINN 求解器 | PINN · 物理AI |
+| [AI 小说多智能体写作系统](https://github.com/Windyhhh/AI-Novel-MultiAgent) | 多智能体 AI 小说创作系统 | MultiAgent · LLM |
+| [离线法律 RAG 问答](https://github.com/Windyhhh/Offline-Legal-RAG-Qwen) | 离线法律知识 RAG 问答 | RAG · Qwen |
+| [线性注意力大模型蒸馏](https://github.com/Windyhhh/LoLCATs-Linear-Attention) | 线性注意力机制研究 | PyTorch |
+| [工业故障检测](https://github.com/Windyhhh/FGAN-Industrial-Fault-Detection) | 工业故障检测 | GAN · 深度学习 |
+| [电影分析全栈](https://github.com/Windyhhh/Movie-Analytics-Spark-Django-Vue) | 电影数据分析全栈 | Spark · Django · Vue |
+| [物理信息神经网络 3D 流场求解器](https://github.com/Windyhhh/PINN-3D-Flow-Solver) | 3D 流动 PINN 求解器 | PINN · 物理AI |
 
 </div>
 
@@ -98,31 +98,31 @@
 
 ### 🤖 AI 与深度学习
 
-[AI-Novel-MultiAgent](https://github.com/Windyhhh/AI-Novel-MultiAgent) · [LoLCATs-Linear-Attention](https://github.com/Windyhhh/LoLCATs-Linear-Attention) · [ViT-LoRA-Incremental-Learning](https://github.com/Windyhhh/ViT-LoRA-Incremental-Learning) · [ViT-Incremental-Learning](https://github.com/Windyhhh/ViT-Incremental-Learning) · [FGAN-Industrial-Fault-Detection](https://github.com/Windyhhh/FGAN-Industrial-Fault-Detection) · [PINN-Fatigue-Crack-Prediction](https://github.com/Windyhhh/PINN-Fatigue-Crack-Prediction) · [PINN-3D-Flow-Solver](https://github.com/Windyhhh/PINN-3D-Flow-Solver) · [ML4ST-Turbulence-Simulation](https://github.com/Windyhhh/ML4ST-Turbulence-Simulation) · [DeepLearning-Image-Classification](https://github.com/Windyhhh/DeepLearning-Image-Classification) · [Engine-RUL-Prediction](https://github.com/Windyhhh/Engine-RUL-Prediction)
+[AI 小说多智能体写作系统](https://github.com/Windyhhh/AI-Novel-MultiAgent) · [线性注意力大模型蒸馏](https://github.com/Windyhhh/LoLCATs-Linear-Attention) · [ViT+LoRA 增量学习](https://github.com/Windyhhh/ViT-LoRA-Incremental-Learning) · [Vision Transformer 增量学习](https://github.com/Windyhhh/ViT-Incremental-Learning) · [工业故障检测](https://github.com/Windyhhh/FGAN-Industrial-Fault-Detection) · [疲劳裂纹扩展预测](https://github.com/Windyhhh/PINN-Fatigue-Crack-Prediction) · [物理信息神经网络 3D 流场求解器](https://github.com/Windyhhh/PINN-3D-Flow-Solver) · [湍流仿真框架](https://github.com/Windyhhh/ML4ST-Turbulence-Simulation) · [深度学习图像分类](https://github.com/Windyhhh/DeepLearning-Image-Classification) · [航空发动机剩余寿命预测](https://github.com/Windyhhh/Engine-RUL-Prediction)
 
 ### 🔍 RAG 与大模型应用
 
-[Offline-Legal-RAG-Qwen](https://github.com/Windyhhh/Offline-Legal-RAG-Qwen) · [XiaoSheng-AI-Learning-Assistant](https://github.com/Windyhhh/XiaoSheng-AI-Learning-Assistant) · [Augment-MCP-Proxy](https://github.com/Windyhhh/Augment-MCP-Proxy) · [MCP-Tools-Collection](https://github.com/Windyhhh/MCP-Tools-Collection)
+[离线法律 RAG 问答](https://github.com/Windyhhh/Offline-Legal-RAG-Qwen) · [小笙 AI 学习助手](https://github.com/Windyhhh/XiaoSheng-AI-Learning-Assistant) · [Augment MCP 代理](https://github.com/Windyhhh/Augment-MCP-Proxy) · [MCP 工具集](https://github.com/Windyhhh/MCP-Tools-Collection)
 
 ### 🐘 大数据与 Spark
 
-[Movie-Analytics-Spark-Django-Vue](https://github.com/Windyhhh/Movie-Analytics-Spark-Django-Vue) · [Gaokao-Score-Hive-DataWarehouse](https://github.com/Windyhhh/Gaokao-Score-Hive-DataWarehouse) · [User-Behavior-Log-SparkSQL](https://github.com/Windyhhh/User-Behavior-Log-SparkSQL) · [Restaurant-BigData-Analytics](https://github.com/Windyhhh/Restaurant-BigData-Analytics) · [Flink-Douban-Movie-Analytics](https://github.com/Windyhhh/Flink-Douban-Movie-Analytics) · [Quality-of-Life-Spark-Analytics](https://github.com/Windyhhh/Quality-of-Life-Spark-Analytics) · [Weather-Spark-Visualization](https://github.com/Windyhhh/Weather-Spark-Visualization) · [Yelp-Business-Data-Analytics](https://github.com/Windyhhh/Yelp-Business-Data-Analytics) · [Hadoop-Log-Anomaly-Detection](https://github.com/Windyhhh/Hadoop-Log-Anomaly-Detection) · [HDFS-Cloud-Disk-SSM](https://github.com/Windyhhh/HDFS-Cloud-Disk-SSM) · [Hadoop-Lab-Guide](https://github.com/Windyhhh/Hadoop-Lab-Guide) · [Industrial-Predictive-Maintenance](https://github.com/Windyhhh/Industrial-Predictive-Maintenance)
+[电影分析全栈](https://github.com/Windyhhh/Movie-Analytics-Spark-Django-Vue) · [高考分数线数据仓库](https://github.com/Windyhhh/Gaokao-Score-Hive-DataWarehouse) · [用户行为日志分析](https://github.com/Windyhhh/User-Behavior-Log-SparkSQL) · [餐饮大数据分析](https://github.com/Windyhhh/Restaurant-BigData-Analytics) · [豆瓣电影分析](https://github.com/Windyhhh/Flink-Douban-Movie-Analytics) · [生活质量数据分析](https://github.com/Windyhhh/Quality-of-Life-Spark-Analytics) · [天气数据可视化](https://github.com/Windyhhh/Weather-Spark-Visualization) · [Yelp 商户数据分析](https://github.com/Windyhhh/Yelp-Business-Data-Analytics) · [日志异常检测](https://github.com/Windyhhh/Hadoop-Log-Anomaly-Detection) · [HDFS 分布式云盘](https://github.com/Windyhhh/HDFS-Cloud-Disk-SSM) · [Hadoop 实验指南](https://github.com/Windyhhh/Hadoop-Lab-Guide) · [工业预测性维护](https://github.com/Windyhhh/Industrial-Predictive-Maintenance)
 
 ### 📈 算法与优化
 
-[Polar-Codes-SCSCL](https://github.com/Windyhhh/Polar-Codes-SCSCL) · [APSK-GMM-Ring-Clustering](https://github.com/Windyhhh/APSK-GMM-Ring-Clustering) · [Transformer-MultiFactor-Stock](https://github.com/Windyhhh/Transformer-MultiFactor-Stock) · [Transformer-Realtime-Monitoring](https://github.com/Windyhhh/Transformer-Realtime-Monitoring) · [Risk-Level-Decision-Tree](https://github.com/Windyhhh/Risk-Level-Decision-Tree) · [Renewable-Energy-Stochastic-Optimization](https://github.com/Windyhhh/Renewable-Energy-Stochastic-Optimization) · [Mochi-Port-Yard-Optimization](https://github.com/Windyhhh/Mochi-Port-Yard-Optimization) · [Port-Ship-Scheduling-GA](https://github.com/Windyhhh/Port-Ship-Scheduling-GA) · [Carpool-Pricing-Optimization](https://github.com/Windyhhh/Carpool-Pricing-Optimization) · [DRL-UAV-TSP-Solver](https://github.com/Windyhhh/DRL-UAV-TSP-Solver) · [DCWRISM-CropIrrigation](https://github.com/Windyhhh/DCWRISM-CropIrrigation) · [ADAMS-Tire-Model-Calculator](https://github.com/Windyhhh/ADAMS-Tire-Model-Calculator)
+[5G 极化码译码](https://github.com/Windyhhh/Polar-Codes-SCSCL) · [APSK 星座 GMM 环形聚类](https://github.com/Windyhhh/APSK-GMM-Ring-Clustering) · [多因子选股](https://github.com/Windyhhh/Transformer-MultiFactor-Stock) · [光伏故障实时监测](https://github.com/Windyhhh/Transformer-Realtime-Monitoring) · [施工安全风险评估](https://github.com/Windyhhh/Risk-Level-Decision-Tree) · [可再生能源随机优化](https://github.com/Windyhhh/Renewable-Energy-Stochastic-Optimization) · [港口堆场优化](https://github.com/Windyhhh/Mochi-Port-Yard-Optimization) · [港口船舶调度](https://github.com/Windyhhh/Port-Ship-Scheduling-GA) · [拼车定价优化](https://github.com/Windyhhh/Carpool-Pricing-Optimization) · [无人机 TSP 路径规划](https://github.com/Windyhhh/DRL-UAV-TSP-Solver) · [作物灌溉模型](https://github.com/Windyhhh/DCWRISM-CropIrrigation) · [ADAMS 轮胎模型计算器](https://github.com/Windyhhh/ADAMS-Tire-Model-Calculator)
 
 ### 🌐 Web 与系统
 
-[Elasticsearch-Java-FullStack](https://github.com/Windyhhh/Elasticsearch-Java-FullStack) · [Hospital-Appointment-System-Java](https://github.com/Windyhhh/Hospital-Appointment-System-Java) · [News-Data-Visualization-JavaWeb](https://github.com/Windyhhh/News-Data-Visualization-JavaWeb) · [Employee-Evaluation-System](https://github.com/Windyhhh/Employee-Evaluation-System) · [NodeJS-Blog-CMS](https://github.com/Windyhhh/NodeJS-Blog-CMS) · [WeChat-MiniProgram](https://github.com/Windyhhh/WeChat-MiniProgram) · [HTML-Rhythm-Game](https://github.com/Windyhhh/HTML-Rhythm-Game) · [OpenGL-3D-Solar-System](https://github.com/Windyhhh/OpenGL-3D-Solar-System) · [Campus-Digital-Nomad-Map](https://github.com/Windyhhh/Campus-Digital-Nomad-Map)
+[Elasticsearch Java 全栈实战](https://github.com/Windyhhh/Elasticsearch-Java-FullStack) · [医院预约系统](https://github.com/Windyhhh/Hospital-Appointment-System-Java) · [新闻数据可视化](https://github.com/Windyhhh/News-Data-Visualization-JavaWeb) · [员工评价系统](https://github.com/Windyhhh/Employee-Evaluation-System) · [Node.js 博客 CMS](https://github.com/Windyhhh/NodeJS-Blog-CMS) · [微信小程序合集](https://github.com/Windyhhh/WeChat-MiniProgram) · [网页节奏游戏](https://github.com/Windyhhh/HTML-Rhythm-Game) · [OpenGL 3D 太阳系](https://github.com/Windyhhh/OpenGL-3D-Solar-System) · [校园数字游民地图](https://github.com/Windyhhh/Campus-Digital-Nomad-Map)
 
 ### 📊 数据分析与可视化
 
-[Lianjia-Rental-Data-Analysis](https://github.com/Windyhhh/Lianjia-Rental-Data-Analysis) · [Social-Media-Multimodal-Consistency](https://github.com/Windyhhh/Social-Media-Multimodal-Consistency) · [Hot-Video-Scrapy-Crawler](https://github.com/Windyhhh/Hot-Video-Scrapy-Crawler) · [Python-DataViz-10-Charts](https://github.com/Windyhhh/Python-DataViz-10-Charts) · [Python-NLP-WordCloud-ChinaMap](https://github.com/Windyhhh/Python-NLP-WordCloud-ChinaMap) · [Image-Conv-Edge-Detection-Sobel](https://github.com/Windyhhh/Image-Conv-Edge-Detection-Sobel) · [Research-Report-Sentiment](https://github.com/Windyhhh/research-report-sentiment-analysis)
+[链家租房数据分析](https://github.com/Windyhhh/Lianjia-Rental-Data-Analysis) · [社交媒体多模态一致性检测](https://github.com/Windyhhh/Social-Media-Multimodal-Consistency) · [热门视频爬虫](https://github.com/Windyhhh/Hot-Video-Scrapy-Crawler) · [Python 学术图表 10 例](https://github.com/Windyhhh/Python-DataViz-10-Charts) · [中国地图词云](https://github.com/Windyhhh/Python-NLP-WordCloud-ChinaMap) · [图像卷积与边缘检测](https://github.com/Windyhhh/Image-Conv-Edge-Detection-Sobel) · [研报情感分析](https://github.com/Windyhhh/research-report-sentiment-analysis)
 
 ### 🎓 学习与工具
 
-[LeetCode-Top-150](https://github.com/Windyhhh/LeetCode-Top-150) · [book](https://github.com/Windyhhh/book) · [Combustion-Rate-Simulation](https://github.com/Windyhhh/Combustion-Rate-Simulation) · [Satellite-Pass-JS-Python](https://github.com/Windyhhh/Satellite-Pass-JS-Python) · [Industrial-Projects](https://github.com/Windyhhh/Industrial-Projects) · [Ethereum-Private-Network-Mining](https://github.com/Windyhhh/Ethereum-Private-Network-Mining) · [CFD-Computational-Fluid-Dynamics](https://github.com/Windyhhh/CFD-Computational-Fluid-Dynamics) · [DSS-Gymnasium-RL](https://github.com/Windyhhh/DSS-Gymnasium-RL)
+[LeetCode 热题 150 题解](https://github.com/Windyhhh/LeetCode-Top-150) · [图书推荐系统](https://github.com/Windyhhh/book) · [推进剂燃速仿真](https://github.com/Windyhhh/Combustion-Rate-Simulation) · [卫星过境预测](https://github.com/Windyhhh/Satellite-Pass-JS-Python) · [工业工程项目合集](https://github.com/Windyhhh/Industrial-Projects) · [以太坊私链部署与挖矿](https://github.com/Windyhhh/Ethereum-Private-Network-Mining) · [计算流体力学 CFD 仿真](https://github.com/Windyhhh/CFD-Computational-Fluid-Dynamics) · [决策支持 RL 环境](https://github.com/Windyhhh/DSS-Gymnasium-RL)
 
 ---
 
